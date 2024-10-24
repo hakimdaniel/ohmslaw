@@ -1,4 +1,4 @@
-# ohmslaw
+# Ohm's Law Calculator (English Version)
 Ohm's Law Calculator for windows
 
 # Screenshot
