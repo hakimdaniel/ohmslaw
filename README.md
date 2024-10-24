@@ -5,7 +5,7 @@ Ohm's Law Calculator for windows
 <img src="screenshot.png">
 
 # Download Link
-<a href="https://github.com/hakimdaniel/ohmslaw/ohmsCalc.exe"><h1>DOWNLOAD</h1></a>
+<a href="https://github.com/hakimdaniel/ohmslaw/ohmsCalc.exe"><h2>DOWNLOAD</h2></a>
 
 # Credit
 - Daniel Hakim
