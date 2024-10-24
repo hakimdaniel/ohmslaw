@@ -4,8 +4,8 @@ Ohm's Law Calculator for windows
 # Screenshot
 <img src="screenshot.png">
 
-# Download Here
-<a href="https://github.com/hakimdaniel/ohmslaw/ohmsCalc.exe">DOWNLOAD HERE</a>
+# Download Link
+<a href="https://github.com/hakimdaniel/ohmslaw/ohmsCalc.exe"><h1>DOWNLOAD</h1></a>
 
 # Credit
 - Daniel Hakim
