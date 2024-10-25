@@ -11,5 +11,10 @@ Ohm's Law Calculator for windows (CLI)
 - ...
 - ...
 
+# Info
+- One time using, open it again for use it again.
+- This non stable yet, i will fix and make improvements for this tool.
+- Version 1.0.2 coming soon
+
 # Credit
 - Daniel Hakim
