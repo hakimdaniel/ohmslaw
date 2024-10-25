@@ -21,7 +21,7 @@ No Installation needed just run it properly after downloading.
 # Info
 - One time using, open it again for use it again.
 - This non stable yet, i will fix and make improvements for this tool.
-- Version 1.0.2 coming soon
+- Version 1.0.2 coming up
 
 # Source Code
 ```c
