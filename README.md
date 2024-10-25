@@ -9,7 +9,7 @@ No Installation needed just run it properly after downloading.
 <img src="screenshot.png">
 
 # Download
-<a href="https://hakimdaniel.github.io/ohmslaw/ohmsCalc.exe"><img src="https://cdn.pixabay.com/photo/2016/12/18/13/45/download-1915753_960_720.png" width="120"></a>
+<a href="https://hakimdaniel.github.io/ohmslaw/ohmsCalc.exe"><img src="https://png.pngtree.com/png-vector/20230311/ourmid/pngtree-download-button-blue-transparent-background-vector-png-image_6644273.png" width="120"></a>
 
 # Features Update 1.0.2
 - Exit option
