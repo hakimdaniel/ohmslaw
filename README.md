@@ -1,4 +1,4 @@
-# Ohm's Law Calculator (English Version) 1.0.0
+# Ohm's Law Calculator (English Version) 1.0.2
 Ohm's Law Calculator for windows (CLI)
 
 Don't forget to give a star above or follow me or do both.
