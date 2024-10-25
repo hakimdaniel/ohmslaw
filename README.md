@@ -3,7 +3,7 @@ Ohm's Law Calculator for windows (CLI)
 
 Don't forget to give a star above or follow me or do both.
 
-No Installation need just run it properly after downloading.
+No Installation needed just run it properly after downloading.
 
 # Screenshot
 <img src="screenshot.png">
